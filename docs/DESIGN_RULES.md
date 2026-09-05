@@ -8,5 +8,5 @@
 6. Preserve the classic isometric gameplay orientation.
 7. Keep the game board readable at the original gameplay scale.
 8. Do not introduce unnecessary physics systems.
-9. Do not introduce unnecessary AI systems.
+9. Do not introduce unnecessary AI systems into the code.
 10. Every new system requires justification.
