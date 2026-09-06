@@ -1,0 +1,92 @@
+﻿  Bdebug.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdebug.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdebug.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdebug.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdebug.cpp(142,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdebug.cpp(147,53): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdebug.cpp(155,4): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bdisp.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdisp.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdisp.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bdisp.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdisp.cpp(255,18): warning C4244: '=': conversion from 'int16_t' to 'U8', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdisp.cpp(256,20): warning C4244: '=': conversion from 'int16_t' to 'U8', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bdisp.cpp(257,19): warning C4244: '=': conversion from 'int16_t' to 'U8', possible loss of data
+  Bjoy.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bjoy.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bjoy.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bjoy.cpp')
+  
+  Bkey.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bkey.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bkey.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bkey.cpp')
+  
+  Bmain.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmain.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmain.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmain.cpp')
+  
+  Bmouse.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmouse.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmouse.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bmouse.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bmouse.cpp(89,16): warning C4101: 'h': unreferenced local variable
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\Bmouse.cpp(89,13): warning C4101: 'w': unreferenced local variable
+  Bsound.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bsound.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bsound.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Bsound.cpp')
+  
+  Btime.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Btime.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Btime.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/Blue/unix/Btime.cpp')
+  
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1564,5): warning MSB8012: TargetPath(C:\Users\ookam\Code\survival\postal-code\Build\Blue\Debug\Blue.lib) does not match the Library's OutputFile property value (C:\Users\ookam\Code\survival\postal-code\Build\Blue\Debug\BlueD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1566,5): warning MSB8012: TargetName(Blue) does not match the Library's OutputFile property value (BlueD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Blue.vcxproj -> C:\Users\ookam\Code\survival\postal-code\Build\Blue\Debug\Blue.lib

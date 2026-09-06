@@ -1,0 +1,138 @@
+﻿  hot.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Hot/hot.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Hot/hot.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Hot/hot.cpp')
+  
+  Image.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Image.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Image.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Image.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Image\Image.cpp(457,24): warning C4244: 'argument': conversion from 'U64' to 'size_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Image\Image.cpp(515,37): warning C4244: 'argument': conversion from 'U64' to 'size_t', possible loss of data
+  Imagecon.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Imagecon.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Imagecon.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/Imagecon.cpp')
+  
+  ImageFile.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/ImageFile.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/ImageFile.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/ImageFile.cpp')
+  
+  InputEvent.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/InputEvent/InputEvent.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/InputEvent/InputEvent.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/InputEvent/InputEvent.cpp')
+  
+  mix.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/mix.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/mix.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/mix.cpp')
+  
+  MixBuf.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/MixBuf.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/MixBuf.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Mix/MixBuf.cpp')
+  
+  pal.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/pal.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/pal.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/pal.cpp')
+  
+  PalFile.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/PalFile.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/PalFile.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Image/PalFile.cpp')
+  
+  sample.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Sample/sample.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Sample/sample.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Sample/sample.cpp')
+  
+  snd.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Snd/snd.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Snd/snd.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Snd/snd.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Snd\snd.cpp(627,30): warning C4244: '=': conversion from 'int16_t' to 'uint8_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Snd\snd.cpp(628,26): warning C4244: '=': conversion from 'int16_t' to 'uint8_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Snd\snd.cpp(774,30): warning C4244: '=': conversion from 'int16_t' to 'uint8_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\Snd\snd.cpp(775,26): warning C4244: '=': conversion from 'int16_t' to 'uint8_t', possible loss of data
+  SndFx.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/SndFx/SndFx.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/SndFx/SndFx.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/SndFx/SndFx.cpp')
+  
+  task.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Task/task.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Task/task.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/Task/task.cpp')
+  
+  Generating Code...
+  Green.vcxproj -> C:\Users\ookam\Code\survival\postal-code\Build\Green\Debug\Green.lib

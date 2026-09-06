@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\Build\\Postal Common\\Debug\\Thing3d.obj",
+            "outputs": [
+                ".\\Build\\Postal Common\\Debug\\Thing3d.cpp.obj.dt.module.json",
+                ".\\Build\\Postal Common\\Debug\\Thing3d.cpp.obj.dt.d.json",
+                ".\\Build\\Postal Common\\Debug/Postal Common.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

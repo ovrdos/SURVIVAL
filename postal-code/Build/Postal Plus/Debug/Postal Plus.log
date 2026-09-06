@@ -1,0 +1,1171 @@
+﻿  aivars.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\logtab.h(452,4): warning C4091: 'typedef ': ignored on left of 'CLogTab<usertype>::<unnamed-enum-MaxVars>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+      C:\Users\ookam\Code\survival\postal-code\logtab.h(452,4):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ookam\Code\survival\postal-code\logtab.h(445,7):
+          while compiling class template 'CLogTab'
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'aivars.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\logtab.h(155,27): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+  (compiling source file 'aivars.cpp')
+      C:\Users\ookam\Code\survival\postal-code\logtab.h(155,27):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ookam\Code\survival\postal-code\aivars.cpp(69,30):
+          see reference to class template instantiation 'CLogTabVar<CPerson *>' being compiled
+          C:\Users\ookam\Code\survival\postal-code\logtab.h(138,3):
+          while compiling class template member function 'CLogTabVar<CPerson *>::CLogTabVar(void)'
+              C:\Users\ookam\Code\survival\postal-code\aivars.cpp(73,4):
+              see the first reference to 'CLogTabVar<CPerson *>::CLogTabVar' in 'CLogTabVar_GetAction::CLogTabVar_GetAction'
+  
+  band.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'band.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\band.cpp(499,31): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(500,31): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(610,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(610,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(610,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(639,35): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(640,35): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(678,56): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(678,50): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(691,36): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(692,36): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(780,35): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(781,35): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(872,36): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(873,36): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(892,51): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(892,44): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(899,56): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(899,50): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(900,34): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(901,34): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(922,56): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(922,50): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(923,34): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(924,34): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(926,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(933,46): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(935,46): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(955,37): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(978,37): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1013,33): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1016,38): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1017,33): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1106,4): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1110,4): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1535,53): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1535,47): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1539,32): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\band.cpp(1540,32): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+  credits.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(80,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(86,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(92,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(93,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(105,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(106,24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(125,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(131,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'credits.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(546,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(786,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(799,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(826,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(902,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(1111,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(1112,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(1116,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\credits.cpp(1117,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  game.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\net.h(90,3): warning C4091: 'typedef ': ignored on left of 'Net::<unnamed-enum-MaxNumIDs>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(177,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-NOTHING>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(218,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-TooManyPlayers>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(226,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-UserAbortedGame>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(1267,4): warning C4091: 'typedef ': ignored on left of 'CNetMsgr::<unnamed-enum-MagicNum>' when no variable is declared
+  (compiling source file 'game.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\game.cpp(931,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(941,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(949,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(951,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(1927,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2184,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2188,26): warning C4101: 'tmp': unreferenced local variable
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2328,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2319,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2330,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2364,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2403,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2411,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2448,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2441,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2450,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2482,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2490,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2498,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2508,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2509,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2510,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2514,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2515,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2520,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2521,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2684,32): warning C4474: 'sprintf' : too many arguments passed for format string
+      C:\Users\ookam\Code\survival\postal-code\game.cpp(2684,32):
+      placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2542,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2681,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(2923,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3095,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3099,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3103,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3470,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3695,6): warning C4477: 'fscanf' : format string '%g' requires an argument of type 'float *', but variadic argument 5 has type 'double *'
+      C:\Users\ookam\Code\survival\postal-code\game.cpp(3695,6):
+      consider using '%lg' in the format string
+  
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3753,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3693,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(3710,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4165,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4449,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4475,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4501,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4527,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4553,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4578,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4606,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4648,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4708,24): warning C4267: 'initializing': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4671,18): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4674,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4677,10): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4690,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  input.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'input.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\input.cpp(1091,49): warning C4244: '+=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\input.cpp(1097,31): warning C4244: '+=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\input.cpp(1137,49): warning C4244: '-=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\input.cpp(1142,31): warning C4244: '-=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\input.cpp(1318,29): warning C4244: '=': conversion from 'UINPUT' to 'U32', possible loss of data
+  localize.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'localize.cpp')
+  
+  main.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Debug\profile.h(299,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\main.cpp(222,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\main.cpp(224,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\main.cpp(226,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\main.cpp(228,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\main.cpp(230,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\main.cpp(921,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  menus.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\net.h(90,3): warning C4091: 'typedef ': ignored on left of 'Net::<unnamed-enum-MaxNumIDs>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(177,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-NOTHING>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(218,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-TooManyPlayers>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(226,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-UserAbortedGame>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(1267,4): warning C4091: 'typedef ': ignored on left of 'CNetMsgr::<unnamed-enum-MagicNum>' when no variable is declared
+  (compiling source file 'menus.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3899,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3900,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3901,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3902,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3903,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3906,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3907,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3908,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3909,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3910,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3911,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3914,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3915,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3916,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3917,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3918,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3919,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3922,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3923,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3924,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3925,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(3926,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5140,73): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5164,73): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5424,72): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5425,72): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5426,72): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5427,72): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5428,72): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(6279,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15): warning C4244: 'argument': conversion from 'ValType' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15): warning C4244:         with
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15): warning C4244:         [
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15): warning C4244:             ValType=double
+C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15): warning C4244:         ]
+      C:\Users\ookam\Code\survival\postal-code\menus.cpp(5355,15):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ookam\Code\survival\postal-code\menus.cpp(5385,11):
+          see reference to function template instantiation 'int16_t SetUpRotationScrollBar<double>(ValType *,Menu *,int16_t,char *)' being compiled
+          with
+          [
+              ValType=double
+          ]
+  
+  play.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(110,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-InAlpha>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(126,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-OutRendered>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\sprites.h(132,4): warning C4091: 'typedef ': ignored on left of 'CSprite::<unnamed-enum-PrivInserted>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\thing.h(385,4): warning C4091: 'typedef ': ignored on left of 'CThing::<unnamed-enum-CHoodID>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\realm.h(504,4): warning C4091: 'typedef ': ignored on left of 'CRealm::<unnamed-enum-Standard>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\weapon.h(95,2): warning C4091: 'typedef ': ignored on left of 'CWeapon::<unnamed-enum-State_Idle>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\character.h(460,19): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\grip.h(157,32): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\grip.h(157,28): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\net.h(90,3): warning C4091: 'typedef ': ignored on left of 'Net::<unnamed-enum-MaxNumIDs>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(177,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-NOTHING>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(218,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-TooManyPlayers>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(226,4): warning C4091: 'typedef ': ignored on left of 'NetMsg::<unnamed-enum-UserAbortedGame>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\netmsgr.h(1267,4): warning C4091: 'typedef ': ignored on left of 'CNetMsgr::<unnamed-enum-MagicNum>' when no variable is declared
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'play.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\logtab.h(452,4): warning C4091: 'typedef ': ignored on left of 'CLogTab<usertype>::<unnamed-enum-MaxVars>' when no variable is declared
+  (compiling source file 'play.cpp')
+      C:\Users\ookam\Code\survival\postal-code\logtab.h(452,4):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ookam\Code\survival\postal-code\logtab.h(445,7):
+          while compiling class template 'CLogTab'
+  
+C:\Users\ookam\Code\survival\postal-code\play.cpp(2469,76): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(2613,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(2624,23): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(2635,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(2636,32): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3487,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3481,14): warning C4101: 'sResult': unreferenced local variable
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3626,12): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3625,12): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3968,81): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3968,61): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3968,41): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3972,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3972,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(3972,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(4320,19): warning C4244: 'initializing': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(4321,19): warning C4244: 'initializing': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(4344,60): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(4344,40): warning C4244: 'argument': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\play.cpp(4917,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5431,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5537,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5540,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5549,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5697,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5710,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5724,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5736,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5698,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5707,21): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5713,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5726,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5738,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\play.cpp(5763,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SampleMaster.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'SampleMaster.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\SampleMaster.cpp(652,24): warning C4244: 'argument': conversion from 'int16_t' to 'uint8_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\SampleMaster.cpp(651,75): warning C4244: 'argument': conversion from 'int16_t' to 'uint8_t', possible loss of data
+  title.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\settings.h(41,4): warning C4091: 'typedef ': ignored on left of 'CSettings::<unnamed-enum-MemFileSize>' when no variable is declared
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': ignored on left of 'RPrefsLine::ePrefsLineType' when no variable is declared
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': ignored on left of 'RPrefs::ePrefs' when no variable is declared
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\StockPile.h(94,4): warning C4091: 'typedef ': ignored on left of 'CStockPile::<unnamed-enum-Bullets>' when no variable is declared
+  (compiling source file 'title.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\title.cpp(279,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\title.cpp(283,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\title.cpp(293,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Users\ookam\Code\survival\postal-code\game.cpp(4831,1): warning C4172: returning address of local variable or temporary : title
+C:\Program Files\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\Users\ookam\Code\survival\postal-code\Build\Postal Plus\Debug\PostalD.exe) does not match the Linker's OutputFile property value (C:\Users\ookam\Code\survival\postal-code\Testing\PostalD.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+aivars.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Postal Plus.vcxproj -> C:\Users\ookam\Code\survival\postal-code\Build\Postal Plus\Debug\PostalD.exe

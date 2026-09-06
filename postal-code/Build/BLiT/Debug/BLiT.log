@@ -1,0 +1,200 @@
+﻿  alphablit.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/alphablit.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/alphablit.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/alphablit.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/alphablit.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/alphablit.cpp')
+  
+  BLIT.CPP
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLIT.CPP')
+  
+  BLITINIT.CPP
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLITINIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLITINIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLITINIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLITINIT.CPP')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLITINIT.CPP')
+  
+  BLiTT.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLiTT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLiTT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLiTT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLiTT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/BLiTT.cpp')
+  
+  CFNT.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/CFNT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/CFNT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/CFNT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/CFNT.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/CFNT.cpp')
+  
+  Fspr1.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Fspr1.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Fspr1.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Fspr1.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Fspr1.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Fspr1.cpp')
+  
+  FSPR8.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/FSPR8.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/FSPR8.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/FSPR8.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/FSPR8.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/FSPR8.cpp')
+  
+  line.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/line.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/line.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/line.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/line.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/line.cpp')
+  
+  mono.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/mono.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/mono.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/mono.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/mono.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/mono.cpp')
+  
+  Rotate96.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Rotate96.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Rotate96.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Rotate96.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Rotate96.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/Rotate96.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(919,16): warning C4244: 'initializing': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(966,39): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(967,39): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+  RPrint.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/RPrint.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/RPrint.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/RPrint.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/RPrint.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/RPrint.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\RPrint.cpp(416,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\RPrint.cpp(429,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\BLiT\RPrint.cpp(445,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScaleFlat.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp')
+  
+  Generating Code...
+  BLiT.vcxproj -> C:\Users\ookam\Code\survival\postal-code\Build\BLiT\Debug\BLiT.lib

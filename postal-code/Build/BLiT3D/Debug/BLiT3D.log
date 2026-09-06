@@ -1,0 +1,91 @@
+﻿  pipeline.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/pipeline.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\pipeline.cpp(110,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\pipeline.cpp(112,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\pipeline.cpp(431,31): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\pipeline.cpp(432,24): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+  render.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/render.cpp')
+  
+  types3d.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\Blue\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/types3d.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\types3d.cpp(243,3): warning C4244: '=': conversion from 'float' to 'U8', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\types3d.cpp(246,3): warning C4244: '=': conversion from 'float' to 'U8', possible loss of data
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\GREEN\3D\types3d.cpp(249,3): warning C4244: '=': conversion from 'float' to 'U8', possible loss of data
+  zbuffer.cpp
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/zbuffer.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/zbuffer.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'RSPiX/Src/GREEN/3D/zbuffer.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/zbuffer.cpp')
+  
+C:\Users\ookam\Code\survival\postal-code\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  (compiling source file 'RSPiX/Src/GREEN/3D/zbuffer.cpp')
+  
+  Generating Code...
+  BLiT3D.vcxproj -> C:\Users\ookam\Code\survival\postal-code\Build\BLiT3D\Debug\BLiT3D.lib
